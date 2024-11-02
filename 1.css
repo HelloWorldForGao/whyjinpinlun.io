@@ -1,0 +1,28 @@
+p,h1,h2,h3,h4 {
+    text-align: center;
+}
+.ncenter {
+    text-align: left;
+}
+.shadow {
+    text-shadow: 5px 5px 5px #114514;
+}
+html {
+    background-color: #cccccc;
+}
+a:link {
+    color: #0000ee;
+    text-decoration: none;
+}
+a:visited {
+    color: #0000ee;
+    text-decoration: none;
+}
+a:hover {
+    color: #0000ee;
+    text-decoration: none;
+}
+a:active {
+    color: #0000ee;
+    text-decoration: none;
+}
